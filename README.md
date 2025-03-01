@@ -1,5 +1,6 @@
 # 📊 HR Hiring Trends Analysis  
-**Data-driven project exploring hiring patterns, recruitment trends, and workforce analytics.**  
+**Data-driven project exploring hiring patterns, recruitment trends, and workforce analytics**
+
 
 ## 📌 Project Overview  
 This project analyzes HR recruitment trends, hiring efficiency, and workforce planning using **SQL for data processing** and **Power BI for visualization**.  
